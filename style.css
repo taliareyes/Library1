@@ -144,6 +144,7 @@ li {
 
 #landing {
     background-color: rgba(115,66,214,0.1);
+    height: 100vh;
 }
 
 header {
